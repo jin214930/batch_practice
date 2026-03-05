@@ -1,4 +1,4 @@
-package com.ward.batch.config;
+package com.ward.batch.chap02;
 
 import org.springframework.batch.core.job.Job;
 import org.springframework.batch.core.job.builder.JobBuilder;
